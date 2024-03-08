@@ -1,3 +1,38 @@
 Denodo Training (Courses Overview):: https://www.youtube.com/playlist?list=PLH2jTWUVQKKq0Wi53SUubm07u1pvzbBOW
 
 
+1.  Denodo 8.0 Standard
+    https://www.youtube.com/playlist?list=PLH2jTWUVQKKq_Ccy_OPjDKehbbNCTYOzm
+
+2.  Denodo 8.0 HowTo - Operation and Source Connectivity
+    https://www.youtube.com/playlist?list=PLH2jTWUVQKKqZB4EWBxT0NQejRKTJeC7F
+
+3.  Denodo 8.0 HowTo - Data Services
+    https://www.youtube.com/playlist?list=PLH2jTWUVQKKrtqkKRFVEDELFjsORag-4g
+
+4.  Denodo 8.0 HowTo - Data Combination
+    https://www.youtube.com/playlist?list=PLH2jTWUVQKKobuR6d46ZDq7g_g5TZtCah
+
+
+5.  Denodo 8.0 HowTo - Solution Manager
+    https://www.youtube.com/playlist?list=PLH2jTWUVQKKqgEyyd1bglO6jKUrx3n7AL
+
+
+
+6.  Denodo 8.0 HowTo - Data Catalog
+    https://www.youtube.com/playlist?list=PLH2jTWUVQKKrTPOg2PQOL7OY_UToq8rPD
+
+7.  Denodo 8.0 HowTo - Security and Performance
+    https://www.youtube.com/playlist?list=PLH2jTWUVQKKqV3yDgu7MDe5KJtw7kuFH9
+
+
+8.  Denodo 8.0 HowTo - Updates
+    https://www.youtube.com/playlist?list=PLH2jTWUVQKKp3mmyZ9EtEUKzjgX2-26bO
+
+
+9.  Denodo 8.0 HowTo - Cloud
+    https://www.youtube.com/playlist?list=PLH2jTWUVQKKoARhKyTBwUTQKITD-ejmv1
+
+10. 
+
+
