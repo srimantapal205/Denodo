@@ -36,3 +36,7 @@ Denodo Training (Courses Overview):: https://www.youtube.com/playlist?list=PLH2j
 10. 
 
 
+8.0 TUTORIALS
+https://community.denodo.com/tutorials/
+
+
